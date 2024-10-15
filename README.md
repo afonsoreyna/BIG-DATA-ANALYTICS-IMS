@@ -1,10 +1,8 @@
 # Customer Targeting with Machine Learning
 
-This project implements a machine learning model to identify a target group of customers for a voucher campaign, enhancing marketing strategies through data-driven insights.
-
 ## Project Context
 
-In this project, our objective was to effectively identify a group of customers who would be most receptive to receiving a voucher. We applied a supervised machine learning approach to analyze customer behavior and predict their likelihood of making a purchase.
+The objective of this project was to identify a group of customers who would be most receptive to receiving a voucher. We employed a supervised uplift machine learning approach to analyse customer behaviour and predict their likelihood of making a purchase. However, there were some nuances to be considered. The objective was to drive revenue, so it was crucial to avoid targeting customers who were likely to purchase without the incentive of a voucher. This was to minimise cannibalisation. In essence, the target audience were persuadable customers who were not prone to making a purchase, but who would respond positively when incentivised with a voucher.
 
 ## Methodology
 
