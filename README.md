@@ -11,7 +11,7 @@ The process involved several key steps:
 1.	Feature Creation:
 - We constructed a set of features using customer data from January to June. These features were designed to capture various aspects of customer behavior and engagement, providing a comprehensive view of each customer’s interaction with the brand.
 2.	Label Assignment:
-- We analyzed an AB test conducted in June, assigning labels to each customer based on their purchase behavior:
+- We analyzed an AB test conducted in June, assigning labels to each customer based on their purchase behavior (A Voucher, B no Voucher):
 - Label 1: Assigned if a customer made an order in June, regardless of their group (control or test).
 - Label 0: Assigned if a customer did not make an order.
 3.	Dataset Preparation:
