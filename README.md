@@ -2,7 +2,7 @@
 
 ## Project Context
 
-The objective of this project was to identify a group of customers who would be most receptive to receiving a voucher. We employed a supervised uplift machine learning approach to analyse customer behaviour and predict their likelihood of making a purchase. However, there were some nuances to be considered. The objective was to drive revenue, so it was crucial to avoid targeting customers who were likely to purchase without the incentive of a voucher. This was to minimise cannibalisation. In essence, the target audience were persuadable customers who were not prone to making a purchase, but who would respond positively when incentivised with a voucher.
+The objective of this project was to identify a group of customers who would be most optimal to provide a voucher. We employed a supervised uplift machine learning approach to analyse customer behaviour and predict their likelihood of making a purchase. However, there were some nuances to be considered. The objective was to drive revenue, so it was crucial to avoid targeting customers who were likely to purchase without the incentive of a voucher. This was to minimise cannibalisation. In essence, the target audience were persuadable customers who were not prone to making a purchase, but who would respond positively when incentivised with a voucher.
 
 ## Methodology
 
